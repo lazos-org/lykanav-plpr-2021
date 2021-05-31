@@ -20,6 +20,8 @@ h1.ttl{
 
 div.title{
 	position: fixed;
+	top: 10px;
+	left: 400px;
 }
 
 h2.cttl{
