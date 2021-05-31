@@ -19,7 +19,7 @@ h1.ttl{
 }
 
 div.title{
-	position: absolute;
+	position: fixed;
 }
 
 h2.cttl{
