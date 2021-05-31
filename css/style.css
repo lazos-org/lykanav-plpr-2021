@@ -12,6 +12,7 @@ maincl.div{
 }
 
 h1.ttl{
+	position: absolute;
 	font-size: 3em;
 	text-align: center;
 	color: #EDF7D2;
