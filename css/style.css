@@ -12,11 +12,14 @@ maincl.div{
 }
 
 h1.ttl{
-	position: absolute;
 	font-size: 3em;
 	text-align: center;
 	color: #EDF7D2;
 	background-color: #7D7C7A;
+}
+
+div.title{
+	position: absolute;
 }
 
 h2.cttl{
